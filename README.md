@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello | Hallo | Bonjour | สวัสดีครับ | 你好 | こんにちは 👋
 
-<!--
-**goodgodth/goodgodth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello World, I'm Ar-ruk Kachen, A Full Stack Developer like a duck🦆 from Bangkok, Thailand
 
-Here are some ideas to get you started:
+- Currently working on NodeJS, ExpressJS, Angular, React, Vue, Python, Flask, Docker, Linux
+- Currently lecturing on RobotFramework , Cypress , JMeter
+- Currently interesting Pro-language on Rust, Go, Ruby, Python, NodeJS, JS, Java, C++, Typescript
+- Currently interesting server tools on Nginx, K8S, Docker, Terraform, Jenkins
+- Currently interesting Software Testing tools on Robotframework, Cypress, UFT, JMeter, Gatling, Postman, SOAPUI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Looking for help issue with Ruby, Python, NodeJS 
+
+
+- Personal interesting : 🏨 🛫 Traveling 🛵 🗼 , ⚽ Football 🏆 , 🥁 🎸 Music 🎹 🎧
